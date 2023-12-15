@@ -1,5 +1,4 @@
-This repository contains python code that was used in the Elementary Mathematical Statistics class at the Pennsylvania State University final exam. 
-
+This repository contains python code that was used in the Elementary Mathematical Statistics class at the Pennsylvania State University final exam. \n
 During that exam we had to code in python using support vector machines to predict student dropout and academic success rates.
 
 
